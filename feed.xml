@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
-  <link href="https://Tanvirrahmananik.github.io/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://Tanvirrahmananik.github.io/" rel="alternate" type="text/html" hreflang="en" />
+  <link href="https://tanvirrahmananik.github.io/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://tanvirrahmananik.github.io/" rel="alternate" type="text/html" hreflang="en" />
   <updated>2025-07-02T08:38:00+06:00</updated>
-  <id>https://Tanvirrahmananik.github.io/feed.xml</id>
+  <id>https://tanvirrahmananik.github.io/feed.xml</id>
   <title type="html">Md Tanvieer's Portfolio</title>
   <subtitle>A personal portfolio showcasing innovative projects in software development, AI, IoT, and more, built with passion for technology and learning.</subtitle>
   <author>
@@ -12,10 +12,10 @@
   </author>
   <entry>
     <title type="html">Welcome to My Portfolio</title>
-    <id>https://Tanvirrahmananik.github.io/entries/2025-07-02-welcome</id>
+    <id>https://tanvirrahmananik.github.io/entries/2025-07-02-welcome</id>
     <updated>2025-07-02T08:38:00+06:00</updated>
     <published>2025-07-02T08:38:00+06:00</published>
-    <link href="https://Tanvirrahmananik.github.io/" rel="alternate" type="text/html" />
+    <link href="https://tanvirrahmananik.github.io/" rel="alternate" type="text/html" />
     <author>
       <name>Md Tanvieer</name>
     </author>

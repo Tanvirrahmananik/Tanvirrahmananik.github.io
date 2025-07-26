@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Tanvirrahmananik.github.io/sitemap.xml
+Sitemap: https://tanvirrahmananik.github.io/sitemap.xml
